@@ -1,0 +1,1 @@
+go run location.go lottery.go driver_location.go
